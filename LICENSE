@@ -1,0 +1,42 @@
+SemVer LICENSE
+
+Version 1.0, February 2025  
+Author: shiyui  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. Semantic Versioning Compliance  
+   Any modifications, derivative works, or redistributions of the Software
+   must adhere to the Semantic Versioning 2.0.0 standard (https://semver.org/).
+   Specifically:
+   - Breaking changes must increment the major version.
+   - Backward-compatible feature additions must increment the minor version.
+   - Backward-compatible bug fixes must increment the patch version.
+
+2. Violation and Remediation  
+   If the Licensee fails to comply with the Semantic Versioning requirement,
+   they must:
+   - Release a correctly versioned update within 30 days, or
+   - Publicly disclose the violation and provide a remediation plan.
+
+   Failure to comply **will not affect past usage under this license**, but  
+   **the license for future use, modification, and distribution may be revoked**  
+   until compliance is restored.
+
+3. Warranty Disclaimer  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+   IN THE SOFTWARE.
+
+---
+
+Note: This is a joke license! Don't take it too seriously.  
